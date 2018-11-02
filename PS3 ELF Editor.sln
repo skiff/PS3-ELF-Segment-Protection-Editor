@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS3 ELF Editor", "PS3 ELF Editor\PS3 ELF Editor.csproj", "{1941D75B-3DB6-4243-860F-01956D3CE70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1941D75B-3DB6-4243-860F-01956D3CE70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1941D75B-3DB6-4243-860F-01956D3CE70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1941D75B-3DB6-4243-860F-01956D3CE70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1941D75B-3DB6-4243-860F-01956D3CE70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2145C8F8-617C-44BA-9ACD-302527C4A303}
+	EndGlobalSection
+EndGlobal
